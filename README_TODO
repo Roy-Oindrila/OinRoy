@@ -1,0 +1,16 @@
+TO-DO website
+This is a simple to-do list web application built using HTML, CSS, and JavaScript. It allows users to add, mark as complete, and delete tasks, with the ability to save the list locally.
+
+
+Features:
+User-friendly interface
+Local storage support to save the to-do list
+Ability to add, mark as complete, and delete tasks
+Optional themes or customization
+
+
+
+Technologies Used:
+HTML for the structure and content
+CSS for styling the user interface
+JavaScript for the interactive functionality, such as adding and managing tasks
